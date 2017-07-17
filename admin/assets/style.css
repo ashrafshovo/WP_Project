@@ -1,0 +1,83 @@
+
+
+/*
+Admin
+*/
+
+.col-xs-12{
+margin-left: 0px;
+}
+
+.col-xs-2{
+    width: 33.33%;
+}
+
+.stat-box1  {
+  
+		background-color:thistle ;
+	  padding: 15px;
+    margin: 0;
+    font-size: 2px;
+
+}
+
+.stat-box2  {
+  		background-color: darkkhaki;
+	  padding: 15px;
+    margin: 0;
+    font-size: 2px;
+}
+.stat-box3  {
+  
+		background-color: paleturquoise;
+	  padding: 18px;
+    margin-top: -1px;
+    font-size: 2px;
+
+}
+
+
+.stat-box4  {
+  
+		background-color: rosybrown;
+	  padding: 15px;
+    margin: 0;
+    font-size: 2px;
+
+}
+
+.stat-box5  {
+  
+		background-color: lightgreen;
+	  padding: 15px;
+    margin: 0;
+    font-size: 2px;
+
+}
+
+
+.stat-box6  {
+  
+		background-color: salmon;
+	  padding:15px;
+    margin-top: 3px;;
+    font-size: 2px;
+
+}
+
+.col-xs-2 h4{
+    color: #FFF;
+	  text-align:center; 
+    margin: 0;
+    font-size: 32px;
+font-family: 'Droid Sans', sans-serif;
+}
+.col-xs-2 h1{
+
+text-align: center;
+font-family: 'Droid Sans', sans-serif;
+font-weight: bold;
+line-height: 1.1;
+color: inherit;
+	
+}

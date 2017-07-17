@@ -1,0 +1,15 @@
+#xt{
+	color: white;
+	margin-left: 100px;
+	}
+
+
+
+.useradmin{
+	
+	margin-top: 80px;
+	background: red;
+	width: 100%;
+	padding: 20px;
+	margin-bottom: -60px;
+}
